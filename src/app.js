@@ -4,6 +4,7 @@ import cookieParser from "cookie-parser";
 import indexRouter from "./routes/index";
 
 // TEST
+// TEST 2
 const app = express();
 
 app.use(logger("dev"));
